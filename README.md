@@ -18,7 +18,7 @@ stored.
 P
 ## PROGRAM - ARP
 
-# Client:
+## Client:
 
 ```
 import socket 
@@ -35,7 +35,7 @@ while True:
                 c.send("Not Found".encode())  
 ```
 
-# Server:
+## Server:
 
 ```
 import socket 
@@ -49,11 +49,11 @@ while True:
 
 ## OUPUT - ARP
 
-# Client:
+## Client:
 
 ![Screenshot 2024-10-01 083249](https://github.com/user-attachments/assets/6c2ee38d-d9a1-41d5-a5a3-55fbf02dacfe)
 
-# Server:
+## Server:
 
 ![Screenshot 2024-10-01 083315](https://github.com/user-attachments/assets/53d42b2c-8b98-44c3-871b-acab3b28c1ff)
 
